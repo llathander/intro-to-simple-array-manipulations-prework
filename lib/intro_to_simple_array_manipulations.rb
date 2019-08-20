@@ -55,8 +55,13 @@ end
   flat_array = private_colleges_in_newyork.flatten
 end
 
+<<<<<<< HEAD
  def using_delete(my_list, my_element) #i dont understand this at all, this makes no sense
   my_list.delete(my_element)
+=======
+ def using_delete(i_cant_believe_this, nor_do_i_understand_this)
+  i_cant_believe_this(nor_do_i_understand_this)
+>>>>>>> 0a79eed7a4f238c9a9a659fda5db520c4d3bfe93
 end
 
  def using_delete_at(famous_robots, integer)
